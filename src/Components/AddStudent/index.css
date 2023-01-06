@@ -1,0 +1,9 @@
+.add-student-form{
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.label-student-name{
+  padding-right: 5px;
+}

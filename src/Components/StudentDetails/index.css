@@ -1,0 +1,31 @@
+.each-student-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  margin-bottom: 2px;
+  border: 2px solid white;
+  height: 50px;
+  width: 400px;
+}
+
+.name-para-display{
+  display: inline;
+}
+
+.name-para-hide{
+  display: none;
+}
+
+.edit-delete-details{
+  display: flex;
+  gap: 10px;
+}
+
+.name-input-hide{
+  display: none;
+}
+
+.name-input-display{
+  display: inline;
+}
